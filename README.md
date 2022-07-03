@@ -1,6 +1,6 @@
 # 流动性挖矿FON
-背景：众所周知，自从2020年从uniswap作为代表的一众dex市场火爆，而相关的lp资产二次发掘也越来越多，其中如sushiswap 可以质押挖矿lp，产出sushi。pancakeswap 中质押LP可以获得cake，mdex中质押LP可以获得mdx。
-FON介绍：
+## 背景：众所周知，自从2020年从uniswap作为代表的一众dex市场火爆，而相关的lp资产二次发掘也越来越多，其中如sushiswap 可以质押挖矿lp，产出sushi。pancakeswap 中质押LP可以获得cake，mdex中质押LP可以获得mdx。
+##FON介绍：
 （1）概况：FON是fstswap farm的LP奖励token，总量1.1亿枚，最高价：35.26美金，最低价：3.335美金，实时价：3.658美金，当前总市值：3.9亿美金，流通总市值：0.56亿美金。
 （2）释放规则：在fstswap中质押官方审核通过的LP可获得FON的奖励，第一年每日释放约258336个FON，总共分7年释放完。（参考数据）
 ![image](https://user-images.githubusercontent.com/77677195/177049359-f7d776d5-3423-4ecc-be71-5389d1a28b78.png)
@@ -23,5 +23,5 @@ FON介绍：
 ![image](https://user-images.githubusercontent.com/77677195/177049415-0b5234a8-e076-4c88-bc90-6e159ebe52b2.png)
 2)同生态代币的对比：fist和osk都是其生态的主要代币,BSC链总量固定，功能类似，且相关第三方不断销毁，使其通缩。fist 和 osk 自FON上线以来的日线如下图所示。 （K线数据）
 ![image](https://user-images.githubusercontent.com/77677195/177049428-d8b9caf4-157b-40c6-b64e-d6271928fcf6.png)
-   评价：糟糕的经济模型，按现在3.6美金计算，如果要保持价格不变，每天大约需要100万美金的购买力才能保证其价格不跌。与其生态紧密关联的token如fist、osk也在其上线约两个月的时间分别从3美金掉到了1.3美金，和50美金掉到了20美金。原因之一就是FON产出的抛压是通过FON/fist、FON/osk作为出金渠道出金。挖出的FON就是不断的从fist和osk的usdt池子中换走usdt，从而让其相关联的资产一路下跌。FON增加的流通市值，就是fist和osk掉的市值。挖出来的FON不是矿,而是fist和osk的血。
-   建议：如果要让fist/osk重新获得生机，取消LP farm或者减少LP farm的APY，引入一些新的经济模型，如单纯的staking、swap 0.3% 的手续费官方获取一部分作为激励资金，不断回购和销毁现有的FON。
+   ##评价：糟糕的经济模型，按现在3.6美金计算，如果要保持价格不变，每天大约需要100万美金的购买力才能保证其价格不跌。与其生态紧密关联的token如fist、osk也在其上线约两个月的时间分别从3美金掉到了1.3美金，和50美金掉到了20美金。原因之一就是FON产出的抛压是通过FON/fist、FON/osk作为出金渠道出金。挖出的FON就是不断的从fist和osk的usdt池子中换走usdt，从而让其相关联的资产一路下跌。FON增加的流通市值，就是fist和osk掉的市值。挖出来的FON不是矿,而是fist和osk的血。
+   ##建议：如果要让fist/osk重新获得生机，取消LP farm或者减少LP farm的APY，引入一些新的经济模型，如单纯的staking、swap 0.3% 的手续费官方获取一部分作为激励资金，不断回购和销毁现有的FON。
